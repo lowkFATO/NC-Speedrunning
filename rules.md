@@ -1,5 +1,7 @@
 # Game rules
 - Paid checkpoints are **not** allowed.
+- Banned glitches:
+  - [Level State Manipulation](https://github.com/lowkFATO/NC-Speedrunning/blob/main/game-mechanics.md#level-state-manipulation-glitch-old-versions-only)
 - Emulators are allowed. You can use any, although [this one](https://play.google.com/googleplaygames) is recommended.
   > Using default keyboard controls is now allowed, you have to map A and D keys to tap inputs (on sidebar, select Game controls -> Edit -> Tap), or your run will be **INVALID**. If done correctly, you'll see Movement Buttons animation when pressing the keys.
 
