@@ -9,6 +9,9 @@ To get the fastest possible completion, for first two jumps do a High First jump
 
 > Cat should jump right on the red line.
 
+WR run (t: 11.217, by: Jwnee, <ins><span title="Frame Perfects">FP</span></ins>:2)
+
+https://github.com/user-attachments/assets/4c3471ea-8b40-4d00-b7cb-1ee7e7a2ad81
 
 
 ### 100%
