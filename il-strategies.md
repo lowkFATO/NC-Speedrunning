@@ -190,5 +190,5 @@ https://github.com/user-attachments/assets/226753e3-deb4-4df5-9845-4c8264f11a51
 ---
 
 ###### For game rules and submission rules, visit [this page.](https://github.com/lowkFATO/NC-Speedrunning/blob/main/rules.md "Rules Page")
-###### For in-depth explanation of game mechanics, visit [this page.](https://github.com/lowkFATO/NC-Speedrunning/edit/main/game-mechanics.md "Game mechanics page")
+###### For in-depth explanation of game mechanics, visit [this page.](https://github.com/lowkFATO/NC-Speedrunning/blob/main/game-mechanics.md "Game mechanics page")
 ###### If you have questions or want to chat, join the [Discord Server.](https://discord.gg/5NFA6K5x7t "Kotoba Games Fandom server")
