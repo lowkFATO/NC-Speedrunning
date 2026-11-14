@@ -7,12 +7,14 @@ Game mechanics will be named the following way:
 
 <img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/term.png" alt="Game mechanics" width="720">
 
+*has to be changes as soon as possible
+
 ## Mechanics Introduction
 
 ### Movement
-Ground movement is pretty straightforward, you move at maximum horizontal speed immediately after tapping the Movement Button. The movement rate is constant and jumping does not change your velocity.
+Ground movement is pretty straightforward, you move at maximum horizontal speed immediately after tapping the Movement Button. The movement rate is constant and jumping at max movement speed does not change your velocity. But if you tap Jump Button before pressing Movement Button, you'll reach max speed slower.
 
-Air movement uses acceleration. You start slower, but potentially reach much higher than grounded (infinite) movement speed.
+Air movement uses acceleration. As previously mentioned, being airborne is initially slower, but there's no cap on acceleration.
 
 ### Early release jump buffering
 When jump buffering, even if Jump Button was released before landing, the game will still register a jump, as can be seen below:
@@ -28,9 +30,9 @@ Jump height in this game is not constant. Buffered jump is ever so slightly high
 
 ### High Jump (Glitch)
 There's a way to gain a couple more pixels of extra height for both First and Buffered jumps. The setup looks like this:
-> For High First jump, tap the Jump Button with two fingers in a single frame.
+> For High First jump, tap the Jump Button twice in a two frame window (use two fingers).
 
-> For High Buffered jump, do the early release and then tap Jump Button at the exact frame the Cat lands on (visibly touches) the ground.
+> For High Buffered jump, do the early release and then tap Jump Button exactly one frame after the Cat lands on (visibly touches) the ground.
 
 Here's the difference between normal and high jumps:
 
@@ -66,12 +68,12 @@ Here's how Warp Jump looks compared to normal Cross Box exit:
 ![Warp jump](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/warp-jump.gif)
 
 Trade Box can be used to perform multiple mid-air Warp Jumps in a row. The setup is as follows:
-1. Place the trade box in the best available location.  In all cases, this will be away from any other warps or trade boxes.  
+1. Place the Trade Box in the best available location. In all cases, this will be away from any other warp units.  
     - If you are trying to maximize height, put it as close to the cat as possible horizontally and as far above the cat as you can while still being able to warp to it after jumping.  
     - If you are trying to maximize distance, put it as close to the cat as possible vertically and as far away horizontally from the cat as you can while still being able to warp to it after jumping forwards.   
 2. Put the cat in the desired position and jump.
-3. Before the cat starts descending, press the warp button to trade with the box.
-4. Immediately after, press both jump and warp at the same time. The cat should appear to jump in mid-air after trading with the box.
+3. Before the cat starts descending, press the Action button to trade with the box.
+4. Immediately after, press both Jump and Action Buttons at the same time. The cat should appear to jump in mid-air after trading with the box.
 5. Repeat steps 3 and 4 in a rhythmic pattern until you reach your desired location.
 
 ![Warp jump](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/tbwj.gif)
