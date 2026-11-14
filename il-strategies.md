@@ -3,6 +3,14 @@
 # Cathedral
 ## 1-1 Nameless Grave
 ### Any%
+To get the fastest possible completion, for first two jumps do a High First jump and a High Buffered jump. Buffer the rest of the jumps normally and you shouldn't bonk into the last block.
+
+<img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/cathedral/11lu.PNG" alt="Game mechanics" width="240">
+
+> Cat should jump right on the red line.
+
+
+
 ### 100%
 ## 1-2 Up
 ### Any%
