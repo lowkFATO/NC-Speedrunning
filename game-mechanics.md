@@ -9,14 +9,12 @@ Game mechanics will be named the following way:
 
 <img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/term.png" alt="Game mechanics" width="720">
 
-~~* this terrible name has to be changed as soon as possible~~
+~~* this name is not very good and needs to be changed~~
 
 ## Mechanics Introduction
 
 ### Movement
-Ground movement is pretty straightforward, you move at maximum horizontal speed immediately after tapping the Movement Button. The movement rate is constant and jumping at max movement speed does not change your velocity. But if you tap Jump Button before pressing Movement Button, you'll reach max speed slower.
-
-Air movement uses acceleration. As previously mentioned, being airborne is initially slower, but there's no cap on acceleration.
+Movement is pretty straightforward, you move at maximum horizontal speed immediately after tapping the Movement Button. The movement rate is constant and jumping at max movement speed does not change your velocity. But if you tap Jump Button before pressing Movement Button, you'll reach max speed slower.
 
 ### Early release jump buffering
 When jump buffering, even if Jump Button was released before landing, the game will still register a jump, as can be seen below:
