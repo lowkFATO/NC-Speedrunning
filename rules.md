@@ -11,11 +11,12 @@
 
 > You can time your runs with [Somewes.](https://somewes.com/frame-count/)
 
-> Timing rules don't account for pause. That means you can't use pause buffering if you want to get the best possible time.
+> Timing rules don't account for pause. That means you can't take breaks/use pause buffering if you want to get the best possible time.
 
 > Audio recording is not required. ~~put your favorite song in a video if you feel like it~~
 
 ---
 
-###### For better understanding of game mechanics, visit [this page.](https://github.com/lowkFATO/NC-Speedrunning/blob/main/game-mechanics.md)
-###### For individual leves strategies, visit [this page.](https://github.com/lowkFATO/NC-Speedrunning/tree/main/strategy)
+###### For better understanding of game mechanics, visit [this page.](https://github.com/lowkFATO/NC-Speedrunning/blob/main/game-mechanics.md "Game mechanics page")
+###### For individual leves strategies, visit [this page.](https://github.com/lowkFATO/NC-Speedrunning/tree/main/strategy "Strategy page")
+###### If you have questions or want to chat, join the [Discord Server.](https://discord.gg/5NFA6K5x7t "Kotoba Games Fandom server")
