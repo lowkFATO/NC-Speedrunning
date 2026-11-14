@@ -84,14 +84,14 @@ After exiting a Cross, if you spam the Jump Button, there's a chance to gain a s
 ![Cross Exit Corner Boost](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/cecb.gif)
 
 ### Spike Corners (Glitch; Old Versions only)
-You can stand on a block edge even if there's spike on it.
+You can stand on a block edge even if there's a spike on it.
 
-![Spike corner](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/sc.PNG)
+<img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/sc.PNG" alt="Spike corners" width="360">
 
 ### Copycat (Glitch; Old Versions only)
 When using the menu to reset (or go back home) while doing something with any type of Box, a new state of the cat appears when you reset. It cannot be controlled but still is a physical object and can only be pushed by other physical objects.
 
-![Copycat](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/cc.PNG)
+<img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/cc.PNG" alt="Copycat" width="360">
 
 Most effects afflicted to Copycat instead are done to player, such as mushroom boosts, fan, death from 1-15 boss. The Copycat itself will not experience the effect. Copycat cannot be pushed by player, can only be indirectly pushed through blocks or though inconsistent when player is forcefully moved into it. E.g. jumping out of Cross. When falling does not accelerate. If they trigger snowball game freezes indefinitely unless you restart by tabbing out and loading game back up.
 
@@ -103,7 +103,7 @@ Having a block in contact with the Copycat gives totally new properties. If the 
 ### Level State Manipulation (Glitch; Old Versions only)
 Allows you to transfer checkpoints from one level to another by dying or restarting in a transition between levels.
 
-![Level State Manipulation](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/lsm.PNG)
+<img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/lsm.PNG" alt="Level State Manipulation" width="720">
 
 ### Live Menu (Glitch)
 The game can be active when the menu is still on. Allows for a larger variety of uses for Level State Manipulation because with it you can restart the level during transition. To do it, you have to:
