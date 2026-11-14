@@ -3,23 +3,40 @@
 # Cathedral
 ## 1-1 Nameless Grave
 ### Any%
-To get the fastest possible completion, for first two jumps do a High First jump and a High Buffered jump. Buffer the rest of the jumps normally and you shouldn't bonk into the last block.
+For first two jumps do a High First jump and a High Buffered jump. Buffer the rest of the jumps normally and you shouldn't bonk into the last block.
 
-<img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/cathedral/11lu.PNG" alt="Game mechanics" width="240">
+<img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/cathedral/11lu.PNG" alt="1-1 lineup" width="240">
 
-> Cat should jump right on the red line.
+> Cat should jump right on the red line. Use ground for visual reference
 
 WR run (t: 11.217, by: Jwnee, <ins><span title="Frame Perfects">FP</span></ins>:2)
 
 https://github.com/user-attachments/assets/4c3471ea-8b40-4d00-b7cb-1ee7e7a2ad81
 
-
 ### 100%
 ## 1-2 Up
 ### Any%
+Stand on the left edge of a moving platform. Run couple frames to the right, then do a High First jump. Jump before wooden platforms needs to be landed perfectly on an edge of a block. Second to last jump has to be a big wooden platform jump.
+
+<img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/cathedral/12lu.PNG" alt="1-2 lineup" width="240">
+
+> Cat should jump right on the red line. Use the big cross in the background for reference.
+
+WR run (t: 10.400, by: Fodtrex, <ins><span title="Frame Perfects">FP</span></ins>:2)
+
+https://github.com/user-attachments/assets/b78c30d9-b115-413f-abae-82f3da24d316
+
 ### 100%
 ## 1-3 Cliff
 ### Any%
+Perfect Instant Warp on every Cross, with a Warp Jump on second one.
+
+WR run (t: 8.083, by: shefeedsoffnosebleeds, <ins><span title="Frame Perfects">FP</span></ins>:5)
+
+https://github.com/user-attachments/assets/2e786419-6c6e-43a8-a1b4-6e4f93252e44
+
+
+
 ### 100%
 ## 1-4 Snow Valley
 ### Any%
