@@ -1,4 +1,4 @@
-> It's highly advised to visit the [game mechanics page](https://github.com/lowkFATO/NC-Speedrunning/blob/main/game-mechanics.md "Game mechanics page") if you do not understand the terminology and strategies used on this page.
+> It's highly advised to visit the [game mechanics page](https://github.com/lowkFATO/NC-Speedrunning/blob/main/game-mechanics.md "Game mechanics page") if you do not have full understanding of the terminology and strategies used on this page.
 
 # Cathedral
 ## 1-1 Nameless Grave
