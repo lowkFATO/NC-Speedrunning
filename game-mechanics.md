@@ -7,7 +7,7 @@ Game mechanics will be named the following way:
 
 <img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/term.png" alt="Game mechanics" width="720">
 
-*has to be changes as soon as possible
+*has to be changed as soon as possible
 
 ## Mechanics Introduction
 
