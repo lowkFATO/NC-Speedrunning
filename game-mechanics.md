@@ -1,3 +1,5 @@
+> This page is a revision of [this](https://docs.google.com/document/d/1XKI6uG274S0r1IdRh7b4zWCHb6zlkPHt0aJr0rTsgY4) document.
+
 > Individual level strategies can be found [here.](https://github.com/lowkFATO/NC-Speedrunning/blob/main/il-strategies.md)
 
 > Old Version (1.12.1) of the game can be downloaded [here.](https://www.apkmirror.com/apk/kotoba-games/nameless-cat/nameless-cat-1-12-1-release/)
