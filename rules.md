@@ -18,5 +18,5 @@
 ---
 
 ###### For better understanding of game mechanics, visit [this page.](https://github.com/lowkFATO/NC-Speedrunning/blob/main/game-mechanics.md "Game mechanics page")
-###### For individual leves strategies, visit [this page.](https://github.com/lowkFATO/NC-Speedrunning/tree/main/strategy "Strategy page")
+###### For individual leves strategies, visit [this page.](https://github.com/lowkFATO/NC-Speedrunning/tree/main/il-strategies "Strategy page")
 ###### If you have questions or want to chat, join the [Discord Server.](https://discord.gg/5NFA6K5x7t "Kotoba Games Fandom server")
