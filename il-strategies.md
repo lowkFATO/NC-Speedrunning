@@ -9,7 +9,7 @@ For first two jumps do a High First jump and a High Buffered jump. Buffer the re
 
 > Cat should jump right on the red line. Use ground for visual reference
 
-WR run (t: 11.217, by: Jwnee, <ins><span title="Frame Perfects">FP</span></ins>:2)
+WR run (t: 11.217, by: Jwnee)
 
 https://github.com/user-attachments/assets/4c3471ea-8b40-4d00-b7cb-1ee7e7a2ad81
 
@@ -22,7 +22,7 @@ Stand on the left edge of a moving platform. Run couple frames to the right, the
 
 > Cat should jump right on the red line. Use the big cross in the background for reference.
 
-WR run (t: 10.400, by: Fodtrex, <ins><span title="Frame Perfects">FP</span></ins>:2)
+WR run (t: 10.400, by: Fodtrex)
 
 https://github.com/user-attachments/assets/b78c30d9-b115-413f-abae-82f3da24d316
 
@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/b78c30d9-b115-413f-abae-82f3da24d316
 ### Any%
 Perfect Instant Warp on every Cross, with a Warp Jump on second one.
 
-WR run (t: 8.083, by: shefeedsoffnosebleeds, <ins><span title="Frame Perfects">FP</span></ins>:5)
+WR run (t: 8.083, by: shefeedsoffnosebleeds)
 
 https://github.com/user-attachments/assets/2e786419-6c6e-43a8-a1b4-6e4f93252e44
 
@@ -40,12 +40,30 @@ https://github.com/user-attachments/assets/2e786419-6c6e-43a8-a1b4-6e4f93252e44
 ### 100%
 ## 1-4 Snow Valley
 ### Any%
+Bonk your head against a ceiling at the start of the level for faster third Cross Warp Jump.
+
+WR run (t: 10.333, by: DxS_Shyokii)
+
+https://github.com/user-attachments/assets/6887d9a1-1737-44c6-8d3d-c06bafb751c2
+
 ### 100%
 ## 1-5 Enter Church
 ### Any%
+Do a Cross Exit Corner Boost and clip the Box into the wooden platform.
+
+WR run (t: 23.200, by: Jwnee)
+
+https://github.com/user-attachments/assets/4e8918ca-0bb0-419f-a76b-ef16765c7ac5
+
 ### 100%
 ## 1-6 Trap
 ### Any%
+Two instant warps allow to not wait for the spikes cycle.
+
+WR run (t: 10.067, by: Fodtrex)
+
+https://github.com/user-attachments/assets/226753e3-deb4-4df5-9845-4c8264f11a51
+
 ### 100%
 ## 1-7 More Trap
 ### Any%
