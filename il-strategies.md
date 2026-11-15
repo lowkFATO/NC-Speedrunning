@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/4c3471ea-8b40-4d00-b7cb-1ee7e7a2ad81
 ### 100%
 ## 1-2 Up
 ### Any%
-Stand on the left edge of a moving platform. Run couple frames to the right, then do a High First jump. Jump before wooden platforms needs to be landed perfectly on an edge of a block. Second to last jump has to be a big wooden platform jump.
+Stand on the left edge of a moving platform. Run couple frames to the right, then do a High First jump. Jump before wooden platforms needs to be landed perfectly on an edge of a block. Second to last jump has to be a High Buffered jump.
 
 <img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/cathedral/12lu.PNG" alt="1-2 lineup" width="240">
 
