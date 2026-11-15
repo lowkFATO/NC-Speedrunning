@@ -14,7 +14,14 @@ Game mechanics will be named the following way:
 ## Mechanics Introduction
 
 ### Movement
-Movement is pretty straightforward, you move at maximum horizontal speed immediately after tapping the Movement Button. The movement rate is constant and jumping at max movement speed does not change your velocity. But if you tap Jump Button before pressing Movement Button, you'll reach max speed slower.
+Ground Movement: \
+The game uses SmoothDamp with smoothTime=0.12f and maxSpeed=inf when a horizontal directional input is held. Cat reaches 99% of his max speed of 3 at around 0.4s. After that the movement rate is constant and jumping at max movement speed does not change your velocity.
+
+Air Movement: \
+The game calculates t = clamp(4 × |requested speed| × deltaTime, 0, 1), then applies a smoothing function t²(3 − 2t). Since the game runs at 50 updates per second, deltaTime = 0.02. For example, if the requested speed is 3, t becomes 0.24, which gets smoothed to roughly 0.145
+on the next tick. Meaning the game moves the current speed about 14.5% of the way toward the requested speed. 
+
+In a speedrunning context, If you tap Jump Button before pressing Movement Button, it'll take a noticeably longer time to reach max horizontal speed.
 
 ### Early release jump buffering
 When jump buffering, even if Jump Button was released before landing, the game will still register a jump, as can be seen below:
@@ -38,15 +45,22 @@ Here's the difference between normal and high jumps:
 
 <img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/all-jumps-comparison.png" alt="Every jump height difference" width="720">
 
-### Wooden platform jumping
-You don't have to land on a wooden platform for the game to register a jump imput, you can jump off of it while airborne. This behavior allows using stacked on top of each other platforms for one big uninterrupted jump.
+The way this glitch works is: \
+When the Cat jumps, the vertical speed gets reset to 5. When another tap is registered right after and the game thinks that you are still on the ground, it gets reset to 5 again, which results in a greater height.
 
-![Double wooden platrofm jump](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/dpj.gif)
+### Wooden platform clip
+If Cat starts falling while his legs are inside of a wooden platform, he'll clip on top of it.
+
+![Wooden platform clip](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/wpc.gif)
 
 ### Wooden Platform Box Clip (Glitch)
-When pushing a Box, you can clip it through a wooden platform by jumping.
+When pushing a Box, you can clip it through an edge of a wooden platform by jumping.
 
 ![Wooden platform box clip](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/wpbc.gif)
+
+Trade Boxes can be clipped with a warp.
+
+![Wooden platform trade box clip](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/tbpc.gif)
 
 ### Platform Clip (Glitch)
 You can clip through platforms that are moving upwards. "The frame before the cat and the platform collide, you have significant downwards velocity while the platform is rising, after one frame passes, the cat should be in the lower zone of the platfrom (which only happens when the cat is very close to landing the previous frame and you have significant downwards velocity). This is what makes the trick so inconsistent, making so the cat is very close to landing but not yet landed so you land low enough to jump at a low enough height that the platform rises faster than you and you go through it." - Fodtrex, one of the top runners. There's no strategy for it, but jump timing for this glitch is not precise and can be buffered.
@@ -82,6 +96,12 @@ Trade Box can be used to perform multiple mid-air Warp Jumps in a row. The setup
 After exiting a Cross, if you spam the Jump Button, there's a chance to gain a significant momentum boost at the corner of a block, which will allow you to make a two block high jump. The mechanics behind this behavior are not understood yet, so there's no setup.
 
 ![Cross Exit Corner Boost](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/cecb.gif)
+
+### Invincible Cat (Glitch)
+
+Cat's invincible against enemies while in a dialogue with an NPC, or even after the dialogue until a new collision.
+
+![Invincible cat](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/icat.gif)
 
 ### Spike Corners (Glitch; Old Versions only)
 You can stand on a block edge even if there's a spike on it.
