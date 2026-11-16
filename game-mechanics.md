@@ -9,7 +9,7 @@ Game mechanics will be named the following way:
 
 <img src="https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/term.png" alt="Game mechanics" width="720">
 
-~~* this name is not very good and needs to be changed~~
+\* Formerly known as "Momentum Warp"
 
 ## Mechanics Introduction
 
@@ -80,6 +80,8 @@ You can jump out of warp units. Two conditions have to be met for this glitch to
 Here's how Warp Jump looks compared to normal Cross Box exit:
 
 ![Warp jump](https://github.com/lowkFATO/NC-Speedrunning/blob/main/media/warp-jump.gif)
+
+Glitch works because the game saves your state (Cat being on ground or airborne) last frame before before entering the warp unit and until the frame of exiting it.
 
 Trade Box can be used to perform multiple mid-air Warp Jumps in a row. The setup is as follows:
 1. Place the Trade Box in the best available location. In all cases, this will be away from any other warp units.  
